@@ -7,7 +7,7 @@ Package.describe({
   // git: '',
   // // By default, Meteor will default to using README.md for documentation.
   // // To avoid submitting documentation, set this field to null.
-  documentation: 'README.md',
+  // documentation: 'README.md',
   summary: "Authorization package for Meteor",
   version: "1.0.0",
   git: "https://github.com/hbsion/meteor-roles.git",
